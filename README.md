@@ -7,7 +7,7 @@
 </picture> -->
 
 <!-- [<img align="left" width="390" alt="🦑" src="https://gist.githubusercontent.com/@:Jamshdbek"/3c6eaedf50273adfb7a510822672f570/raw/general.svg">](#) -->
-[<img align="right" width="390" alt="🦑" src="https://github.com/Jamshdbek">](#)
+<!-- [<img align="right" width="390" alt="🦑" src="https://github.com/Jamshdbek">](#) -->
 
 - 🔭 I’m currently working on ...
 -
