@@ -9,11 +9,13 @@
 <!-- [<img align="left" width="390" alt="🦑" src="https://gist.githubusercontent.com/@:Jamshdbek"/3c6eaedf50273adfb7a510822672f570/raw/general.svg">](#) -->
 <!-- [<img align="right" width="390" alt="🦑" src="https://github.com/Jamshdbek">](#) -->
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+
 - 🔭 I’m currently working on ...
 -
 - ⚡ Fun fact: ...
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/Jamshdbek=anuraghazra&show_icons=true&theme=radical)
+
 
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Ashutosh00710&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
