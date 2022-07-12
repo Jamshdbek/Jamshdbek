@@ -14,10 +14,6 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jamshdbek&show_icons=true&theme=radical)
 
 - 🔭 I’m currently working on ...
--
-- ⚡ Fun fact: ...
-
-
 
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Jamshdbek&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
