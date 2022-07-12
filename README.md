@@ -12,7 +12,7 @@
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical) -->
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jamshdbek&show_icons=true&theme=radical)
-[<img align="right" width="390" alt="🦑" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jamshdbek&layout=compact">](https://github.com/anuraghazra/github-readme-stats)
+<!-- [<img align="right" width="390" alt="🦑" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jamshdbek&layout=compact">](https://github.com/anuraghazra/github-readme-stats) -->
 - 🔭 I’m currently working on ...
 
 
