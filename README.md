@@ -6,7 +6,7 @@
   <img src="https://github-readme-stats-one-bice.vercel.app/api?username=yujincheng08&show_icons=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR">
 </picture> -->
 
-[<img align="right" width="390" alt="🦑" src="https://gist.githubusercontent.com/lowlighter/3c6eaedf50273adfb7a510822672f570/raw/general.svg">](#)
+[<img align="right" width="390" alt="🦑" src="https://gist.githubusercontent.com/Jamshdbek/3c6eaedf50273adfb7a510822672f570/raw/general.svg">](#)
 
 - 🔭 I’m currently working on ...
 -
