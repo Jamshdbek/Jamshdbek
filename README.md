@@ -20,8 +20,7 @@
 
 <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23e4626b.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
 <img alt="React" src="https://img.shields.io/badge/react-%23f2ca61.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
-
-
+<img alt="Golang" src="https://img.shields.io/travis/jamshdbek/repo?color=yello&label=Golang&logo=go&logoColor=blue&style=flat-square"/>
 
 
 
