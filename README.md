@@ -13,11 +13,6 @@
 <br/>
   
 
-<!-- <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-one-bice.vercel.app/api?username=yujincheng08&show_icons=true&theme=onedark&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR">
-  <img src="https://github-readme-stats-one-bice.vercel.app/api?username=taidous&show_icons=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR">
-</picture> -->
-
 <!-- ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) -->
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E")
