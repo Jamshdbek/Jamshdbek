@@ -1,33 +1,16 @@
-### Hi there 👋 :octocat:
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-one-bice.vercel.app/api?username=jamshdbek&show_icons=true&theme=onedark&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR">
-  <img src="https://github-readme-stats-one-bice.vercel.app/api?username=jamshdbek&show_icons=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR">
-</picture>
+### Hi 👋 :octocat:
 
-</br>
-
-<!-- <-- <picture>
-<--  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=jamshdbek&layout=compact&exclude_repo=Hardware-Course&theme=onedark&hide=Jupyter%20Notebook,MATLAB&role=OWNER,ORGANIZATION_MEMBER&langs_count=10">
- <-- <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=jamshdbek&layout=compact&exclude_repo=Hardware-Course&hide=Jupyter%20Notebook,MATLAB&role=OWNER,ORGANIZATION_MEMBER&langs_count=10"> -->
-<!-- </picture> --> 
-<br/>
+  ### Github Status
+  <div display="flex">
   
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jamshdbek&show_icons=true&bg_color=00000000&text_color=afbac4)
 
-<!-- <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-one-bice.vercel.app/api?username=yujincheng08&show_icons=true&theme=onedark&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR">
-  <img src="https://github-readme-stats-one-bice.vercel.app/api?username=taidous&show_icons=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR">
-</picture> -->
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=jamshdbek&layout=compact&bg_color=242930&border_color=0000&title_color=fff&text_color=afbac4&border_radius=20)
+  </div>
+### Contact 📨
 
-<!-- ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) -->
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E")
-<img src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>
-<br/>
-<br/>
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) 
-
-
+[![Twitter](https://img.shields.io/badge/@Jash-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/CascadeNets)
+[![Telegram](https://img.shields.io/badge/@Jamshid-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/jamshid_ibroximov)
 
 
 
