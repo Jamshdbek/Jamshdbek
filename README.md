@@ -1,7 +1,5 @@
 ### Hi 👋 :octocat:
 
-  ### Github Status
-
   
   ### Contact 📨
 
