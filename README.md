@@ -1,12 +1,7 @@
 ### Hi 👋 :octocat:
 
   ### Github Status
-  <div display="flex">
-  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jamshdbek&show_icons=true&bg_color=00000000&text_color=afbac4)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Jamshdbek&layout=compact&bg_color=242930&border_color=0000&title_color=fff&text_color=afbac4&border_radius=20)
-  </div>
   
   ### Contact 📨
 
