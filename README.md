@@ -75,9 +75,6 @@
     </td>
   </tr> -->
 </table>
-### Contact 📨
-:octocat:
-[![Telegram](https://img.shields.io/badge/@Jamshid-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/jamshid_ibroximov)
 
 
 
