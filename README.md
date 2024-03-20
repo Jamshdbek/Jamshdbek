@@ -26,7 +26,6 @@
 <a href="https://tailwindcss.com/" title="Tailwind"><img src="https://github.com/get-icon/geticon/raw/master/icons/tailwindcss-icon.svg" alt="Tailwind" width="40px" height="40px"></a>
 <a href="https://postcss.org/" title="PostCSS"><img src="https://github.com/get-icon/geticon/raw/master/icons/postcss.svg" alt="PostCSS" width="40px" height="40px"></a>
 <a href="https://sass-lang.com/" title="Sass"><img src="https://github.com/get-icon/geticon/raw/master/icons/sass.svg" alt="Sass" width="40px" height="40px"></a>
-<a href="https://lodash.com/" title="Lodash"><img src="https://github.com/get-icon/geticon/raw/master/icons/lodash.svg" alt="lodash" width="40px" height="40px"></a>
 <a href="https://ant.design/" title="Ant Design"><img src="https://github.com/get-icon/geticon/raw/master/icons/ant-design.svg" alt="antd" width="40px" height="40px"></a>
 <a href="https://dev.mysql.com/" title="MySQL"><img src="https://github.com/get-icon/geticon/raw/master/icons/mysql.svg" alt="MySQL" width="40px" height="40px"></a>
 <a href="https://www.postgresql.org/" title="PostgreSQL"><img src="https://github.com/get-icon/geticon/raw/master/icons/postgresql.svg" alt="PostgreSQL" width="40px" height="40px"></a>
