@@ -64,6 +64,7 @@
   </tr>
   <tr>
     <td colspan="2">
+     [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Jamshdbek)](https://github.com/anuraghazra/github-readme-stats)
       <img
         align="center"
         width="100%"
