@@ -1,13 +1,14 @@
 ### Hi there👋
 <br/>
 <div align="left" style={text-align:"center"}>
- 
-``my status``
+
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=jamshdbek&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
 <!--  <img src="https://github.githubassets.com/images/mona-whisper.gif" />  -->
 </div>
 
   ``Languages, Tools and Technologies``
+  <br/>
+  <br/>
 <a href="https://www.typescriptlang.org/" title="Typescript"><img src="https://github.com/get-icon/geticon/raw/master/icons/typescript-icon.svg" alt="Typescript" width="40px" height="40px"></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript"><img src="https://github.com/get-icon/geticon/raw/master/icons/javascript.svg" alt="JavaScript" width="40px" height="40px"></a>
 <a href="https://tc39.es/ecma262/" title="ECMAScript 6"><img src="https://github.com/get-icon/geticon/raw/master/icons/es6.svg" alt="ECMAScript 6" width="40px" height="40px"></a>
@@ -48,21 +49,22 @@
 <a href="https://www.adobe.com/products/illustrator.html" title="Adobe Illustrator"><img src="https://github.com/get-icon/geticon/raw/master/icons/adobe-illustrator.svg" alt="Adobe Illustrator" width="40px" height="40px"></a>
 ### Resolt
 <table width="100%">
-  <tr>
-    <td>
+  <tr  align="center">
+<!--     <td>
       <img
         align="center"
         src="https://github-readme-stats.vercel.app/api?username=Jamshdbek&hide_border=true&show_icons=true&hide_title=true&text_color=9f9f9f&bg_color=00000000"
       />
-    </td>
+    </td> -->
     <td>
       <img
         align="center"
-        src="https://github-readme-streak-stats.herokuapp.com/?user=Jamshdbek&hide_border=true&show_icons=true&sideLabels=9f9f9f&sideNums=9f9f9f&dates=9f9f9f&currStreakNum=9f9f9f&ring=4F8CC9&fire=4F8CC9&currStreakLabel=4F8CC9&background=00000000"
+        src="https://github-readme-streak-stats.herokuapp.com/? 
+                 user=Jamshdbek&hide_border=true&show_icons=true&sideLabels=9f9f9f&sideNums=9f9f9f&dates=9f9f9f&currStreakNum=9f9f9f&ring=4F8CC9&fire=4F8CC9&currStreakLabel=4F8CC9&background=00000000"
       />
     </td>
   </tr>
-  <tr>
+<!--   <tr>
     <td colspan="2">
      [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Jamshdbek)](https://github.com/anuraghazra/github-readme-stats)
       <img
@@ -71,7 +73,7 @@
         src="https://github-readme-stats.vercel.app/api/wakatime?username=Jamshdbek&hide_border=true&custom_title=Week%27s%20Activity&title_color=4F8CC9&text_color=9f9f9f&bg_color=00000000&range=last_7_days"
       />
     </td>
-  </tr>
+  </tr> -->
 </table>
 ### Contact 📨
 :octocat:
