@@ -1,7 +1,6 @@
 ### Hi there👋
 <br/>
-<div align="left" style={text-align:"center"}>
-
+<div align="left">
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=jamshdbek&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
 <!--  <img src="https://github.githubassets.com/images/mona-whisper.gif" />  -->
 </div>
@@ -45,37 +44,17 @@
 <a href="https://www.apache.org/" title="Apache"><img src="https://github.com/get-icon/geticon/raw/master/icons/apache.svg" alt="Apache" width="40px" height="40px"></a>
 <a href="https://handlebarsjs.com/" title="Handlebars"><img src="https://github.com/get-icon/geticon/raw/master/icons/handlebars.svg" alt="Handlebars" width="40px" height="40px"></a>
 <a href="https://git-scm.com/" title="Git"><img src="https://github.com/get-icon/geticon/raw/master/icons/git-icon.svg" alt="Git" width="40px" height="40px"></a>
-<a href="https://www.adobe.com/products/photoshop.html" title="Adobe Photoshop"><img src="https://github.com/get-icon/geticon/raw/master/icons/adobe-photoshop.svg" alt="Adobe Photoshop" width="40px" height="40px"></a>
-<a href="https://www.adobe.com/products/illustrator.html" title="Adobe Illustrator"><img src="https://github.com/get-icon/geticon/raw/master/icons/adobe-illustrator.svg" alt="Adobe Illustrator" width="40px" height="40px"></a>
-### Resolt
-<table width="100%">
-  <tr  align="center">
-<!--     <td>
-      <img
-        align="center"
-        src="https://github-readme-stats.vercel.app/api?username=Jamshdbek&hide_border=true&show_icons=true&hide_title=true&text_color=9f9f9f&bg_color=00000000"
+<br/><br/>
+``Some Progress``
+<br/>
+<div width="100%" align="center">
+  <p>
+    <img
+     align="center"
+     src="https://github-readme-streak-stats.herokuapp.com/?user=Jamshdbek&hide_border=true&show_icons=true&sideLabels=9f9f9f&sideNums=9f9f9f&dates=9f9f9f&currStreakNum=9f9f9f&ring=4F8CC9&fire=4F8CC9&currStreakLabel=4F8CC9&background=00000000"
       />
-    </td> -->
-    <td>
-      <img
-        align="center"
-        src="https://github-readme-streak-stats.herokuapp.com/? 
-                 user=Jamshdbek&hide_border=true&show_icons=true&sideLabels=9f9f9f&sideNums=9f9f9f&dates=9f9f9f&currStreakNum=9f9f9f&ring=4F8CC9&fire=4F8CC9&currStreakLabel=4F8CC9&background=00000000"
-      />
-    </td>
-  </tr>
-<!--   <tr>
-    <td colspan="2">
-     [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Jamshdbek)](https://github.com/anuraghazra/github-readme-stats)
-      <img
-        align="center"
-        width="100%"
-        src="https://github-readme-stats.vercel.app/api/wakatime?username=Jamshdbek&hide_border=true&custom_title=Week%27s%20Activity&title_color=4F8CC9&text_color=9f9f9f&bg_color=00000000&range=last_7_days"
-      />
-    </td>
-  </tr> -->
-</table>
-
+ </p>  
+</div>
 
 
  
