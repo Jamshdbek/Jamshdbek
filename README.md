@@ -6,6 +6,8 @@
 </div>
 
   ``Languages``
+  <br/>
+  
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript"><img src="https://github.com/get-icon/geticon/raw/master/icons/javascript.svg" alt="JavaScript" width="40px" height="40px"></a>
   <br/>
   <br/>
