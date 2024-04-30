@@ -5,11 +5,15 @@
 <!--  <img src="https://github.githubassets.com/images/mona-whisper.gif" />  -->
 </div>
 
-  ``Languages, Tools and Technologies``
-  <br/>
-  <br/>
-<a href="https://www.typescriptlang.org/" title="Typescript"><img src="https://github.com/get-icon/geticon/raw/master/icons/typescript-icon.svg" alt="Typescript" width="40px" height="40px"></a>
+  ``Languages``
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript"><img src="https://github.com/get-icon/geticon/raw/master/icons/javascript.svg" alt="JavaScript" width="40px" height="40px"></a>
+  <br/>
+  <br/>
+  ``tooles`
+  <br/>
+  <br/>
+  
+<a href="https://www.typescriptlang.org/" title="Typescript"><img src="https://github.com/get-icon/geticon/raw/master/icons/typescript-icon.svg" alt="Typescript" width="40px" height="40px"></a>
 <a href="https://tc39.es/ecma262/" title="ECMAScript 6"><img src="https://github.com/get-icon/geticon/raw/master/icons/es6.svg" alt="ECMAScript 6" width="40px" height="40px"></a>
 <a href="https://webcomponents.org/" title="WebComponents"><img src="https://github.com/get-icon/geticon/raw/master/icons/webcomponents.svg" alt="WebComponents" width="40px" height="40px"></a>
 <a href="https://reactjs.org/" title="React"><img src="https://github.com/get-icon/geticon/raw/master/icons/react.svg" alt="React" width="40px" height="40px"></a>
