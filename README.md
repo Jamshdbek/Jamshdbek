@@ -42,7 +42,7 @@
 <a href="https://www.apache.org/" title="Apache"><img src="https://github.com/get-icon/geticon/raw/master/icons/apache.svg" alt="Apache" width="40px" height="40px"></a>
 <a href="https://handlebarsjs.com/" title="Handlebars"><img src="https://github.com/get-icon/geticon/raw/master/icons/handlebars.svg" alt="Handlebars" width="40px" height="40px"></a>
 <a href="https://git-scm.com/" title="Git"><img src="https://github.com/get-icon/geticon/raw/master/icons/git-icon.svg" alt="Git" width="40px" height="40px"></a>
-<a href="https://www.electronjs.org/" title="Git"><img src="https://github.com/get-icon/geticon/raw/master/icons/icons/electron.svg" alt="Electron" width="40px" height="40px"></a>
+<a href="https://www.electronjs.org/" title="Git"><img src="https://github.com/get-icon/geticon/raw/master/icons/electron.svg" alt="Electron" width="40px" height="40px"></a>
 <br/><br/>
 ``Some Progress``
 <br/>
