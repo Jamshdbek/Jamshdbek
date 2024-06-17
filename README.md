@@ -1,8 +1,8 @@
 ### Hi there👋
 <br/>
-<div align="left">
+<div align="center" >
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=jamshdbek&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
-<!--  <img src="https://github.githubassets.com/images/mona-whisper.gif" />  -->
+ <img src="https://i.giphy.com/VekcnHOwOI5So.webp" width="200"  /> 
 </div>
   <br/>
   <br/>
@@ -53,6 +53,7 @@
      src="https://github-readme-streak-stats.herokuapp.com/?user=Jamshdbek&hide_border=true&show_icons=true&sideLabels=9f9f9f&sideNums=9f9f9f&dates=9f9f9f&currStreakNum=9f9f9f&ring=4F8CC9&fire=4F8CC9&currStreakLabel=4F8CC9&background=00000000"
       />
  </p>  
+   <img src="https://github.githubassets.com/images/mona-whisper.gif" /> 
 </div>
 
 
