@@ -13,7 +13,7 @@
 <a href="https://tc39.es/ecma262/" title="ECMAScript 6"><img src="https://github.com/get-icon/geticon/raw/master/icons/es6.svg" alt="ECMAScript 6" width="40px" height="40px"></a>
 <a href="https://webcomponents.org/" title="WebComponents"><img src="https://github.com/get-icon/geticon/raw/master/icons/webcomponents.svg" alt="WebComponents" width="40px" height="40px"></a>
 <a href="https://reactjs.org/" title="React"><img src="https://github.com/get-icon/geticon/raw/master/icons/react.svg" alt="React" width="40px" height="40px"></a>
-<a href="https://vuejs.org/" title="Vue"><img src="https://github.com/get-icon/geticon/raw/master/icons/vue.svg" alt="Vue" width="40px" height="40px"></a>
+<a href="https://vuejs.org/" title="Vue"><img src="https://github.com/get-icon/geticon/raw/master/icons/angular-icon.svg" alt="Vue" width="40px" height="40px"></a>
 <a href="https://redux.js.org/" title="Redux"><img src="https://github.com/get-icon/geticon/raw/master/icons/redux.svg" alt="Redux" width="40px" height="40px"></a>
 <a href="https://pinia.vuejs.org/" title="Pinia"><img src="https://pinia.vuejs.org/logo.svg" alt="Pinia" width="40px" height="40px"></a>
 <a href="https://nodejs.org/" title="Node.js"><img src="https://github.com/get-icon/geticon/raw/master/icons/nodejs-icon.svg" alt="Node.js" width="40px" height="40px"></a>
