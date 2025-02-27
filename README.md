@@ -7,7 +7,6 @@
   <br/>
   <br/>
   <br/>
-  
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript"><img src="https://github.com/get-icon/geticon/raw/master/icons/javascript.svg" alt="JavaScript" width="40px" height="40px"></a>
 <a href="https://www.typescriptlang.org/" title="Typescript"><img src="https://github.com/get-icon/geticon/raw/master/icons/typescript-icon.svg" alt="Typescript" width="40px" height="40px"></a>
 <a href="https://tc39.es/ecma262/" title="ECMAScript 6"><img src="https://github.com/get-icon/geticon/raw/master/icons/es6.svg" alt="ECMAScript 6" width="40px" height="40px"></a>
@@ -45,13 +44,7 @@
 <a href="https://www.electronjs.org/" title="Git"><img src="https://github.com/get-icon/geticon/raw/master/icons/electron.svg" alt="Electron" width="40px" height="40px"></a>
 <br/><br/>
 <br/>
-<div width="100%" align="center">
-  <p>
-<!--     <img
-     align="center"
-     src="https://github-readme-streak-stats.herokuapp.com/?user=Jamshdbek&hide_border=true&show_icons=true&sideLabels=9f9f9f&sideNums=9f9f9f&dates=9f9f9f&currStreakNum=9f9f9f&ring=4F8CC9&fire=4F8CC9&currStreakLabel=4F8CC9&background=00000000"
-      /> -->
- </p>  
+<div width="100%" align="center"> 
    <img src="https://github.githubassets.com/images/mona-whisper.gif" /> 
 </div>
 
