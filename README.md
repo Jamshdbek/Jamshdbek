@@ -48,10 +48,10 @@
 <br/>
 <div width="100%" align="center">
   <p>
-    <img
+<!--     <img
      align="center"
      src="https://github-readme-streak-stats.herokuapp.com/?user=Jamshdbek&hide_border=true&show_icons=true&sideLabels=9f9f9f&sideNums=9f9f9f&dates=9f9f9f&currStreakNum=9f9f9f&ring=4F8CC9&fire=4F8CC9&currStreakLabel=4F8CC9&background=00000000"
-      />
+      /> -->
  </p>  
    <img src="https://github.githubassets.com/images/mona-whisper.gif" /> 
 </div>
