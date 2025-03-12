@@ -45,7 +45,7 @@
 <br/><br/>
 <br/>
 <div width="100%" align="center"> 
-   <img src="https://github.githubassets.com/images/mona-whisper.gif" /> 
+<!--    <img src="https://github.githubassets.com/images/mona-whisper.gif" />  -->
 </div>
 
 
