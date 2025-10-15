@@ -1,7 +1,7 @@
-### Hi there👋
+### Hi
 <br/>
 <div align="center" >
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=jamshdbek&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
+<!-- <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=jamshdbek&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
  <img src="https://i.giphy.com/VekcnHOwOI5So.webp" width="200"  /> 
 </div>
   <br/>
@@ -44,7 +44,7 @@
 <a href="https://www.electronjs.org/" title="Git"><img src="https://github.com/get-icon/geticon/raw/master/icons/electron.svg" alt="Electron" width="40px" height="40px"></a>
 <br/><br/>
 <br/>
-<div width="100%" align="center"> 
+<div width="100%" align="center">  -->
 <!--    <img src="https://github.githubassets.com/images/mona-whisper.gif" />  -->
 </div>
 
