@@ -1,5 +1,22 @@
 ### Hi
 <br/>
+<div style="min-height:100vh; display:flex; align-items:center; justify-content:center; background:radial-gradient(circle at 20% 30%, #e0f2fe, #bfdbfe, #93c5fd); font-family: 'Inter', sans-serif; padding:2rem;">
+  <div style="display:flex; align-items:center; justify-content:space-between; background:white; border-radius:1.5rem; box-shadow:0 12px 40px rgba(30,58,138,0.2); width:900px; overflow:hidden; border:1px solid #dbeafe;">  
+    <div style="flex:0 0 200px; background:linear-gradient(135deg, #2563eb, #1d4ed8); display:flex; align-items:center; justify-content:center; padding:2rem;">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Godot_icon.svg" alt="Godot Logo" style="width:120px; height:120px; filter:drop-shadow(0 4px 8px rgba(0,0,0,0.3));">
+    </div>
+    <div style="flex:1; padding:2rem 3rem; color:#1e293b;">
+      <h1 style="font-size:1.5rem; font-weight:800; margin-bottom:1rem; background:linear-gradient(90deg, #1e3a8a, #3b82f6); -webkit-background-clip:text; -webkit-text-fill-color:transparent;">
+        Godot Developer
+      </h1>
+      <p style="font-size:1.125rem; line-height:1.7; color:#475569; margin-bottom:1.5rem;">
+        Experienced in building 2D and 3D games using the Godot Engine. Focused on creating immersive player experiences and smooth gameplay mechanics with performance in mind.
+      </p>
+    </div>
+  </div>
+</div>
+
+
 <div align="center" >
 <!-- <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=jamshdbek&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
  <img src="https://i.giphy.com/VekcnHOwOI5So.webp" width="200"  /> 
